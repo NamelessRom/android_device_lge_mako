@@ -1,0 +1,10 @@
+[
+ {
+   "remote": "nameless",
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "branch": "android-4.4"
+ }
+]
+
+
