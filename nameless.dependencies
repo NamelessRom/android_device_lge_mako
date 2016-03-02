@@ -3,7 +3,13 @@
         "remote": "github",
         "repository": "NamelessRom/android_kernel_google_msm",
         "target_path": "kernel/google/msm",
-        "revision": "n-2.1"
+        "revision": "n-3.0"
+    },
+    {
+        "remote": "github",
+        "repository": "CyanogenMod/android_external_stlport",
+        "target_path": "external/stlport",
+        "revision": "cm-13.0"
     }
 ]
 
